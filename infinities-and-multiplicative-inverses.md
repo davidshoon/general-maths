@@ -1,5 +1,7 @@
 # Infinities, multiplicative inverses and finite fields
 
+By David Shoon 2023-03-08
+
 Let's say we want: 1 + 1 + 1 + 1 + ... + 
 
 That's to say: Sum[1, from n = 1 to infinity], which is the same as:
